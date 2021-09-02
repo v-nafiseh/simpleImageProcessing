@@ -18,3 +18,6 @@
 
 ###### local feature descriptors
 - descriptors that evaluate local parts of an image locally 
+
+[image source](https://www.kaggle.com/c/flower-classification-2019)
+
